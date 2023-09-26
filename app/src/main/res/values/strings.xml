@@ -1,0 +1,5 @@
+<resources>
+    <string name="TextoBienvenida">Bienvenido!!</string>
+    <string name="Ver">Ver la otra actividad</string>
+    <string name="MIAPP">Mi App</string>
+</resources>
